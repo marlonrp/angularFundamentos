@@ -1,4 +1,4 @@
-import { Directive, ElementRef, HostListener, Renderer, Input } from '../../../../../node_modules/@angular/core';
+import { Directive, ElementRef, HostListener, Renderer, Input } from '@angular/core';
 
 @Directive({
     selector: '[appDarkenOnHover]'

@@ -1,6 +1,6 @@
-import { NgModule } from '../../../../node_modules/@angular/core';
-import { CommonModule } from '../../../../node_modules/@angular/common';
-import { HttpClientModule } from '../../../../node_modules/@angular/common/http';
+import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { HttpClientModule } from '@angular/common/http';
 
 import { PhotoComponent } from './photo.component';
 

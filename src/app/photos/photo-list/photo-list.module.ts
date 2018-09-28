@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '../../../../node_modules/@angular/common';
+import { CommonModule } from '@angular/common';
 
 import { PhotoListComponent } from './photo-list.component';
 import { PhotosComponent } from './photos/photos.component';
